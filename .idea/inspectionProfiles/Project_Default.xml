@@ -22,6 +22,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="KeyError.__or__" />
+          <option value="urllib.parse" />
         </list>
       </option>
     </inspection_tool>
